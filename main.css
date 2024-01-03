@@ -59,7 +59,7 @@
     position: fixed;
     top: 0;
     z-index: 100;
-    background-image: url('D:/CPP/WebDev/css/Images/cta-bg.jpg');    
+    background-image: url('./img/cta-bg.jpg');    
 }
 
 .navbar a {
